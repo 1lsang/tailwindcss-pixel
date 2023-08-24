@@ -14,4 +14,8 @@ function px(start = 0, stop = 1024, step = 1, suffix = 'px') {
     }
 }
 
+function pxToRem(px, base = 16) {
+    return `${px / base}rem`;
+}
+
 export { range, px }
