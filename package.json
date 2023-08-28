@@ -1,4 +1,19 @@
 {
+  "name": "tailwindcss-pixel",
+  "version": "1.1.0",
+  "description": "Using Tailwind CSS with pixel units",
+  "keywords": ["tailwindcss", "tailwind", "css", "pixel"],
+  "author": {
+    "name": "IlSang Park",
+    "email": "ilsangpark.98@gmail.com"
+  },
+  "main": "src/index.js",
+  "repository": {
+    "directory": "src",
+    "type": "git",
+    "url": "https://github.com/1lsang/tailwindcss-pixel"
+  },
+  "license": "MIT",
   "devDependencies": {
     "tailwindcss": "^3.3.3"
   }
